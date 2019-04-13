@@ -11,9 +11,6 @@ public class Ticket {
     @Column(name = "ID")
     private int ticketID;
 
-    @Column(name = "nume")
-    private String name;
-
     @OneToOne(cascade = CascadeType.ALL, orphanRemoval = true)
     @JoinColumn(name = "UserID")
     User user;
@@ -28,14 +25,6 @@ public class Ticket {
 
     public void setTicketID(int ticketID) {
         this.ticketID = ticketID;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
     }
 
     public User getUser() {
