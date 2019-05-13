@@ -1,0 +1,16 @@
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/repo/TicketRepoI.java
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/entitie/Show.java
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/entitie/Ticket.java
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/controller/UserController.java
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/repo/ShowToRoomRepoI.java
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/entitie/User.java
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/Main.java
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/controller/RoomController.java
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/controller/ShowController.java
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/repo/ShowRepoI.java
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/controller/ShowToRoomController.java
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/controller/TicketController.java
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/repo/RoomRepoI.java
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/repo/UserRepoI.java
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/entitie/ShowToRoom.java
+/home/blondutz/Desktop/TheatreTickets/tickets/src/main/java/theatre/entitie/Room.java
