@@ -30,4 +30,10 @@ public class ShowController {
     public Show getByName(@PathVariable String name) {
         return repo.getByName(name).orElse(null);
     }
+
+    @DeleteMapping("/delete")
+    @Transactional
+    public void addShow(@PathVariable String name) {
+        repo.deleteByName(name);
+    }
 }

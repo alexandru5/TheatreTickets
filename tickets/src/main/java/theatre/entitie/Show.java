@@ -8,7 +8,7 @@ public class Show {
 
     @Id
     @GeneratedValue(strategy= GenerationType.IDENTITY)
-    @Column(name = "UserID")
+    @Column(name = "ID")
     private int showID;
 
     @Column(name = "Name")
